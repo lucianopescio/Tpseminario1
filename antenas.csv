@@ -1,0 +1,891 @@
+id;ubicacion;municipio_id;municipio;provincia;departamento
+1301;;SGO900;Alhuampa;Santiago del Estero;Moreno
+1276;;SFE038;Cacique Ariacaiquín;Santa Fe;San Javier
+1093;;SFE243;Presidente Roca;Santa Fe;Castellanos
+738;Tacanas -;TUC088;San Pedro de Colalao;Tucumán;Trancas
+1079;;SAL041;Pichanal;Salta;Oran
+604;Dependencia Municipal;CBA277;Pampayasta Sud;Córdoba;Tercero Arriba
+954;PD Valeria del Mar;BUE097;Pinamar;Buenos Aires;Pinamar
+214;Punto Digital;BUE097;Pinamar;Buenos Aires;Pinamar
+731;San Carlos (La Consulta);MZA013;San Carlos;Mendoza;San Carlos
+931;Punto Digital;MZA013;San Carlos;Mendoza;San Carlos
+576;San Carlos (Pza Salud);MZA013;San Carlos;Mendoza;San Carlos
+732;San Carlos (Pza San Carlos);MZA013;San Carlos;Mendoza;San Carlos
+1011;Pasaje Rural 3 Esquinas;MZA013;San Carlos;Mendoza;San Carlos
+674;Pareditas;MZA013;San Carlos;Mendoza;San Carlos
+792;San Carlos(Rio Tunuyan);MZA013;San Carlos;Mendoza;San Carlos
+660;Comuna;CHU008;Colan Conhué;Chubut;Languiñeo
+334;;COR019;Garruchos;Corrientes;Santo Tome
+306;;CHA024;General Pinedo;Chaco;Doce de Octubre
+1268;Plaza Meson de Fierro;CHA024;General Pinedo;Chaco;Doce de Octubre
+1021;Punto Digital;SAL049;San Antonio de los Cobres;Salta;Los Andes
+1140;;LAP029;General Pico;La Pampa;Maraco
+1077;;SAL054;Seclantás;Salta;Molinos
+927;Punto Digital;MIS069;San Vicente;Misiones;Guarani
+765;C.I.C;MIS069;San Vicente;Misiones;Guarani
+231;Baradero Plaza Colon;BUE010;Baradero;Buenos Aires;Baradero
+945;PD Baradero;BUE010;Baradero;Buenos Aires;Baradero
+1290;;SFE115;Esteban Rams;Santa Fe;Nueve de Julio
+1209;;SFE266;Rufino;Santa Fe;General Lopez
+201;Rufino - Municipalidad;SFE266;Rufino;Santa Fe;General Lopez
+202;Rufino - Plaza Sarmiento;SFE266;Rufino;Santa Fe;General Lopez
+522;;BUE066;La Plata;Buenos Aires;La Plata
+520;Republica de los Niños;BUE066;La Plata;Buenos Aires;La Plata
+523;;BUE066;La Plata;Buenos Aires;La Plata
+521;;BUE066;La Plata;Buenos Aires;La Plata
+519;Punto Digital;BUE066;La Plata;Buenos Aires;La Plata
+50;Punto Digital;BUE066;La Plata;Buenos Aires;La Plata
+49;48 y 7;BUE066;La Plata;Buenos Aires;La Plata
+882;;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+416;Plaza Esc Comer;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+419;Plaza España;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+883;;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+417;Parque GraSM.;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+881;;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+357;Plaza Municipio;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+418;Plaza;BUE089;Nueve de Julio;Buenos Aires;Nueve de Julio
+612;;CBA415;Villa Quillinzo;Córdoba;Calamuchita
+1181;;CHA059;Quitilipi;Chaco;Quitilipi
+311;;CHA059;Quitilipi;Chaco;Quitilipi
+1132;;CHA059;Quitilipi;Chaco;Quitilipi
+294;;RNO021;Ingeniero Luis A. Huergo;Río Negro;General Roca
+666;Sede Comunal;CHU028;Lagunita Salada;Chubut;Gastre
+769;¨Polideportivo municipal;MZA010;Malargüe;Mendoza;Malargüe
+557;Malargue - El Chacay / escuela rural;MZA010;Malargüe;Mendoza;Malargüe
+783;;SJU017;Valle Fértil;San Juan;Valle Fertil
+856;;SJU017;Valle Fértil;San Juan;Valle Fertil
+725;Municipalidad;LRJ017;Sanagasta;La Rioja;Sanagasta
+1060;;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+235;Cnel Pringles PD;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+620;Municipalidad;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+484;Hospital Municipal;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+621;Esc N°7;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+619;Municipalidad;BUE031;Coronel Pringles;Buenos Aires;Coronel Pringles
+962;Centro de Informacion Turistica;SCR018;El Chaltén;Santa Cruz;Lago Argentino
+1295;;SCR018;El Chaltén;Santa Cruz;Lago Argentino
+969;Plaza Santa Teresita;BUE064;La Costa;Buenos Aires;La Costa
+985;Las Toninas;BUE064;La Costa;Buenos Aires;La Costa
+983;Mar deTuyu;BUE064;La Costa;Buenos Aires;La Costa
+984;San Clemente deTuyu;BUE064;La Costa;Buenos Aires;La Costa
+31;Costanera y 3;BUE064;La Costa;Buenos Aires;La Costa
+35;Santa Teresita;BUE064;La Costa;Buenos Aires;La Costa
+516;Ing. Maschwitz;BUE036;Escobar;Buenos Aires;Escobar
+1184;;BUE036;Escobar;Buenos Aires;Escobar
+515;Plaza San Martin;BUE036;Escobar;Buenos Aires;Escobar
+1043;;SFE199;Los Laureles;Santa Fe;General Obligado
+953;Punto Digital;BUE096;Pilar;Buenos Aires;Pilar
+76;Plaza 12 de Octubre;BUE096;Pilar;Buenos Aires;Pilar
+1232;;CBA218;Leones;Córdoba;Marcos Juarez
+110;Plaza 25 de mayo;CBA218;Leones;Córdoba;Marcos Juarez
+247;Olavarria PD;BUE090;Olavarría;Buenos Aires;Olavarria
+1156;;BUE090;Olavarría;Buenos Aires;Olavarria
+69;NIDO;BUE090;Olavarría;Buenos Aires;Olavarria
+70;Parque Mitre;BUE090;Olavarría;Buenos Aires;Olavarria
+1131;;CHA043;Machagai;Chaco;Veinticinco de Mayo
+662;Puesto de Información Turistica;CHU043;Trevelin;Chubut;Futaleufu
+676;Municipalidad;JUJ020;El Talar;Jujuy;Santa Barbara
+255;PD Basavilbaso;ERI005;Basavilbaso;Entre Ríos;Uruguay
+132;Polideportivo;ERI005;Basavilbaso;Entre Ríos;Uruguay
+131;Museo Ferrocarril;ERI005;Basavilbaso;Entre Ríos;Uruguay
+133;Pza San Martin;ERI005;Basavilbaso;Entre Ríos;Uruguay
+1070;;RNO037;Viedma;Río Negro;Adolfo Alsina
+533;Viedma - Parque de Juegos;RNO037;Viedma;Río Negro;Adolfo Alsina
+1133;;RNO037;Viedma;Río Negro;Adolfo Alsina
+269;PD Viedma;RNO037;Viedma;Río Negro;Adolfo Alsina
+907;;RNO037;Viedma;Río Negro;Adolfo Alsina
+1134;;RNO037;Viedma;Río Negro;Adolfo Alsina
+532;Viedma - Centro Cultural;RNO037;Viedma;Río Negro;Adolfo Alsina
+1186;;TUC012;Banda del Río Salí;Tucumán;Cruz Alta
+1138;;TUC012;Banda del Río Salí;Tucumán;Cruz Alta
+1150;;MIS059;Puerto Iguazú;Misiones;Iguazu
+1153;;MIS059;Puerto Iguazú;Misiones;Iguazu
+956;Punto Digital;MIS059;Puerto Iguazú;Misiones;Iguazu
+1151;;MIS059;Puerto Iguazú;Misiones;Iguazu
+1154;;MIS059;Puerto Iguazú;Misiones;Iguazu
+1149;;MIS059;Puerto Iguazú;Misiones;Iguazu
+1152;;MIS059;Puerto Iguazú;Misiones;Iguazu
+1319;;JUJ002;Abra Pampa;Jujuy;Cochinoca
+543;Rachaite-Escuela;JUJ002;Abra Pampa;Jujuy;Cochinoca
+1320;;JUJ002;Abra Pampa;Jujuy;Cochinoca
+1015;Alfarcito;JUJ002;Abra Pampa;Jujuy;Cochinoca
+529;Nido Viale;ERI056;Viale;Entre Ríos;Parana
+758;;ERI056;Viale;Entre Ríos;Parana
+1094;;SGO085;Villa Ojo de Agua;Santiago del Estero;Ojo de Agua
+1294;;NEU043;Villa del Nahueve;Neuquén;Minas
+323;C.I.C;MIS028;Dos de Mayo;Misiones;Cainguas
+681;;CHA002;Barranqueras;Chaco;San Fernando
+1166;;CHA002;Barranqueras;Chaco;San Fernando
+1167;;CHA002;Barranqueras;Chaco;San Fernando
+1235;;SAL006;Cafayate;Salta;Cafayate
+1236;;SAL006;Cafayate;Salta;Cafayate
+1234;;SAL006;Cafayate;Salta;Cafayate
+872;Cuartino Puerto;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+875;Cen.Ca.Por;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+251;Floresta PD;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+878;Terminal de Cruceros 3;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+873;Empalme Norte;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+876;Terminal de Cruceros;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+249;Ex Esma;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+871;Dir.Puertos;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+879;Terminal de Cruceros 4;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+874;Food Trucks Puerto BSAS;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+250;Accion Catolica;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+877;Terminal de Cruceros 2;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+79;Devoto Casa del Futuro;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+80;Casa de la Cultura;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+78;Piletones II;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+77;Piletones I;CAB000;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;
+820;;SGO116;Las Tinajas;Santiago del Estero;Moreno
+937;Punto Digital;ERI013;Concordia;Entre Ríos;Concordia
+134;Terminal de Omnibus;ERI013;Concordia;Entre Ríos;Concordia
+1223;;CBA107;Cruz Alta;Córdoba;Marcos Juarez
+609;Municipalidad;CBA107;Cruz Alta;Córdoba;Marcos Juarez
+1222;;CBA107;Cruz Alta;Córdoba;Marcos Juarez
+277;Vicente Lopez - San Martin;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+285;Vicente Lopez - Vergara;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+410;Estacion Gral las Heras;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+232;Estación MalaVer- Vicente Lopez;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+280;Vicente Lopez - Las Heras;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+288;Vicente Lopez - Libertad;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+275;Vicente Lopez - Santa Rosa;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+283;Vicente Lopez - Las Heras II;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+408;Estacion Gral lavalle;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+278;Vicente Lopez - Laprida;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+286;Vicente Lopez - Roca;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+233;Estación Yrigoyen- Vicente Lopez;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+281;Vicente Lopez - Italia;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+289;Vicente Lopez - Urquiza;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+276;Vicente Lopez - Arenales;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+284;Vicente Lopez - Maipu 455 II;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+409;Estacion A. del Valle;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+279;Vicente Lopez - Estacion Alvarez;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+287;Vicente Lopez - Alsina;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+274;Vicente Lopez- Estacion Haedo;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+282;Vicente Lopez - Italia II;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+290;Florida;BUE131;Vicente López;Buenos Aires;Vicente Lopez
+1227;;COR012;Corrientes;Corrientes;Capital
+1164;;COR012;Corrientes;Corrientes;Capital
+1165;;COR012;Corrientes;Corrientes;Capital
+1163;;COR012;Corrientes;Corrientes;Capital
+222;Centro Comunitario Irupe;COR012;Corrientes;Corrientes;Capital
+225;Guemes y Lamadrid;COR012;Corrientes;Corrientes;Capital
+221;Sueci y Frondizi;COR012;Corrientes;Corrientes;Capital
+224;Plaza Sgto Cabral;COR012;Corrientes;Corrientes;Capital
+223;Plaza Vera;COR012;Corrientes;Corrientes;Capital
+220;Plaza 3 de Abril;COR012;Corrientes;Corrientes;Capital
+699;Municipalidad;ERI032;Larroque;Entre Ríos;Gualeguaychu
+570;Ushuaia - Puerto / Sector Quiebre in;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+572;Ushuaia - Puerto / muelle columna 2;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+575;Puerto Almanza VSAT Arsat;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+565;Direccion Provincial puertos;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+573;Ushuaia - Puerto / muelle columna 5;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+914;Punto Digital Ushuaia;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+568;Ushuaia - Puerto / Sector Catamaranes;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+571;Ushuaia - Puerto / Sector Quiebre out;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+574;Ushuaia - Puerto / muelle columna 4;TDF003;Ushuaia;Tierra del Fuego;Ushuaia
+1203;;SFE260;Ricardone;Santa Fe;San Lorenzo
+824;;ERI068;Pronunciamiento;Entre Ríos;Uruguay
+359;Municipalidad;LAP060;Realicó;La Pampa;Realico
+1214;;SJU007;Jáchal;San Juan;Jachal
+680;C.i.C (Mogna);SJU007;Jáchal;San Juan;Jachal
+687;San Jose de Jachal (Punto Digital);SJU007;Jáchal;San Juan;Jachal
+1190;;RNO035;Sierra Grande;Río Negro;San Antonio
+295;;RNO035;Sierra Grande;Río Negro;San Antonio
+866;Observatorio;NEU025;Neuquén;Neuquén;Confluencia
+987;Plazoleta Estados Arabes;NEU025;Neuquén;Neuquén;Confluencia
+865;ETON;NEU025;Neuquén;Neuquén;Confluencia
+177;Plaza de las Banderas;NEU025;Neuquén;Neuquén;Confluencia
+170;Paseo de la Costa - Edificio Celebrar;NEU025;Neuquén;Neuquén;Confluencia
+169;ECOESTACION (Sarmiento 80);NEU025;Neuquén;Neuquén;Confluencia
+167;Parque Central - MNBA;NEU025;Neuquén;Neuquén;Confluencia
+165;NIDO TOMA NORTE;NEU025;Neuquén;Neuquén;Confluencia
+172;MAUSOLEO M. OLASCOAGA;NEU025;Neuquén;Neuquén;Confluencia
+173;Parque Central - Sala Emilio Sarco;NEU025;Neuquén;Neuquén;Confluencia
+174;Centro - Monumento San Martin 1;NEU025;Neuquén;Neuquén;Confluencia
+175;Centro - Monumento San Martín 2;NEU025;Neuquén;Neuquén;Confluencia
+166;Parque Central;NEU025;Neuquén;Neuquén;Confluencia
+171;Alto Godoy;NEU025;Neuquén;Neuquén;Confluencia
+1205;;SFE318;Sauce Viejo;Santa Fe;La Capital
+1308;;SAL034;La Viña;Salta;La Viña
+546;;CAT004;Antofagasta de la Sierra;Catamarca;Antofagasta de la Sierra
+547;;CAT004;Antofagasta de la Sierra;Catamarca;Antofagasta de la Sierra
+1353;PD Los Ángeles;CAT012;Huillapima;Catamarca;Capayan
+1217;;SLU007;Batavia;San Luis;Gobernador Dupuy
+1366;;BUE118;San Pedro;Buenos Aires;San Pedro
+480;;BUE118;San Pedro;Buenos Aires;San Pedro
+1362;;BUE118;San Pedro;Buenos Aires;San Pedro
+525;;SFE028;Bella Italia;Santa Fe;Castellanos
+600;;COR062;Tapebicuá;Corrientes;Paso de los Libres
+403;;SGO040;La Cañada;Santiago del Estero;Figueroa
+812;;NEU020;Las Ovejas;Neuquén;Minas
+721;Municipalidad;LRJ006;Famatina;La Rioja;Famatina
+932;Punto Digital;LRJ006;Famatina;La Rioja;Famatina
+246;Fundacion Pupi;BUE067;Lanús;Buenos Aires;Lanus
+949;Punto digital;BUE067;Lanús;Buenos Aires;Lanus
+652;FPII;BUE067;Lanús;Buenos Aires;Lanus
+950;NIDO Lanus;BUE067;Lanús;Buenos Aires;Lanus
+653;FPIII;BUE067;Lanús;Buenos Aires;Lanus
+951;Punto Digital Remedios de Escalada;BUE067;Lanús;Buenos Aires;Lanus
+54;Plaza Tacuari;BUE067;Lanús;Buenos Aires;Lanus
+52;Cancha de Fútbol Barrial;BUE067;Lanús;Buenos Aires;Lanus
+55;Plaza Las Colinas;BUE067;Lanús;Buenos Aires;Lanus
+51;Punto Digital;BUE067;Lanús;Buenos Aires;Lanus
+53;Pza.Sarmiento;BUE067;Lanús;Buenos Aires;Lanus
+56;Plaza San Martin;BUE067;Lanús;Buenos Aires;Lanus
+57;Pza.La Torre;BUE067;Lanús;Buenos Aires;Lanus
+911;;RNO064;Pichi Mahuida;Río Negro;Pichi Mahuida
+1069;;SGO034;Guardia Escolta;Santiago del Estero;Belgrano
+1244;;CAT032;Tinogasta;Catamarca;Tinogasta
+1048;;CAT032;Tinogasta;Catamarca;Tinogasta
+1107;;CAT032;Tinogasta;Catamarca;Tinogasta
+1283;;CBA095;Colonia Vignaud;Córdoba;San Justo
+1022;San Jose de Chasquivil;TUC009;Anca Juli;Tucumán;Tafi Viejo
+635;Vsat Anca Juli;TUC009;Anca Juli;Tucumán;Tafi Viejo
+1178;;SFE143;Granadero Baigorria;Santa Fe;Rosario
+344;;SFE143;Granadero Baigorria;Santa Fe;Rosario
+615;;SFE143;Granadero Baigorria;Santa Fe;Rosario
+585;Municipalidad;COR007;Colonia Carlos Pellegrini;Corrientes;San Martin
+586;;COR007;Colonia Carlos Pellegrini;Corrientes;San Martin
+298;Punto Digital;COR007;Colonia Carlos Pellegrini;Corrientes;San Martin
+730;Payogasta;SAL040;Payogasta;Salta;Cachi
+719;Municipalidad;JUJ038;Puesto Viejo;Jujuy;El Carmen
+965;Comuna;TUC034;El Puestito;Tucumán;Burruyacu
+982;Puestito PD;TUC034;El Puestito;Tucumán;Burruyacu
+304;;SFE056;Carrizales;Santa Fe;Iriondo
+1144;;BUE101;Quilmes;Buenos Aires;Quilmes
+1142;;BUE101;Quilmes;Buenos Aires;Quilmes
+1143;;BUE101;Quilmes;Buenos Aires;Quilmes
+85;Plaza;BUE101;Quilmes;Buenos Aires;Quilmes
+86;Punto Digital;BUE101;Quilmes;Buenos Aires;Quilmes
+84;Punto Digital;BUE101;Quilmes;Buenos Aires;Quilmes
+83;Estacion de Tren;BUE101;Quilmes;Buenos Aires;Quilmes
+82;Parque;BUE101;Quilmes;Buenos Aires;Quilmes
+1160;;BUE071;Lincoln;Buenos Aires;Lincoln
+1161;;CHA007;Charata;Chaco;Chacabuco
+977;Punto Digital;TDF001;Río Grande;Tierra del Fuego;Rio Grande
+663;salon de usos multiples;CHU021;Gan Gan;Chubut;Telsen
+303;Municipalidad de Loreto VSAT;COR033;Loreto;Corrientes;San Miguel
+366;Municipalidad;LAP067;Sarah;La Pampa;Chapaleufu
+1240;;SCR007;Perito Moreno;Santa Cruz;Lago Buenos Aires
+1241;;SCR007;Perito Moreno;Santa Cruz;Lago Buenos Aires
+741;Delegacion Municipal;TUC106;Villa Benjamín Aráoz y el Tajamar;Tucumán;Burruyacu
+771;Caviahue;NEU007;Caviahue-Copahue;Neuquén;Ñorquin
+904;Copahue;NEU007;Caviahue-Copahue;Neuquén;Ñorquin
+229;Patio Civico;BUE014;Berisso;Buenos Aires;Berisso
+1;Plaza 17 de Octubre;BUE014;Berisso;Buenos Aires;Berisso
+1196;;SFE144;Gregoria Pérez de denis;Santa Fe;Nueve de Julio
+1129;;BUE113;San Cayetano;Buenos Aires;San Cayetano
+411;Magdalena - Plaza Villa Garibaldi (Brenan 1450);BUE076;Magdalena;Buenos Aires;Magdalena
+412;Magdalena - Plaza San Martín (esq. Rivadavia e Irigoyen);BUE076;Magdalena;Buenos Aires;Magdalena
+952;PD Magdalena;BUE076;Magdalena;Buenos Aires;Magdalena
+1009;Centro Polideportivo;MZA012;Rivadavia;Mendoza;Rivadavia
+928;Punto Digital;MIS030;El Soberbio;Misiones;Guarani
+338;Oficina de Turismo;MIS030;El Soberbio;Misiones;Guarani
+342;Polideportivo;CHA017;Cote-Lai;Chaco;Tapenaga
+898;Municipalidad;CHU010;Corcovado;Chubut;Futaleufu
+1291;;CHU031;Paso de Indios;Chubut;Paso de Indios
+717;Municipalidad;JUJ011;Catua;Jujuy;Susques
+337;;COR069;Pago de los Deseos;Corrientes;Saladas
+579;SENASA Santa Rosa;LAP065;Santa Rosa;La Pampa;Capital
+360;Santa Rosa - Plaza San Martin;LAP065;Santa Rosa;La Pampa;Capital
+1046;;SLU044;Papagayos;San Luis;Chacabuco
+560;Municipalidad;MIS016;Cerro Azul;Misiones;Leandro N. Alem
+799;;SCR020;Koluel Kayke;Santa Cruz;Deseado
+1110;;CAT005;Belén;Catamarca;Belen
+252;PD Belen Catamarca;CAT005;Belén;Catamarca;Belen
+1091;;BUE043;General Alvear;Buenos Aires;General Alvear
+735;Plaza San Martin;SFE225;Murphy;Santa Fe;General Lopez
+930;Punto Digital;MZA011;Mendoza;Mendoza;Capital
+157;Plaza Chile;MZA011;Mendoza;Mendoza;Capital
+986;Plazoleta Municipal;CBA222;Los Cocos;Córdoba;Punilla
+272;PD Los Cocos;CBA222;Los Cocos;Córdoba;Punilla
+1242;;CBA246;Marcos Juárez;Córdoba;Marcos Juarez
+1158;;MIS064;San Ignacio;Misiones;San Ignacio
+593;San Ignacio - Plaza Municipal;MIS064;San Ignacio;Misiones;San Ignacio
+552;;CHA068;Villa Río Bermejito;Chaco;General Güemes
+958;Punto Digital;CBA160;Justiniano Posse;Córdoba;Union
+261;PD Monteros;TUC071;Monteros;Tucumán;Monteros
+254;PD Villa allende;CBA381;Villa Allende;Córdoba;Colon
+811;;CBA381;Villa Allende;Córdoba;Colon
+127;Polideportivo;CBA381;Villa Allende;Córdoba;Colon
+126;Villa Allende - Plaza M. Belgrano;CBA381;Villa Allende;Córdoba;Colon
+128;Casa de la cultura;CBA381;Villa Allende;Córdoba;Colon
+125;Villa Allende - Municipalidad;CBA381;Villa Allende;Córdoba;Colon
+698;;BUE088;Necochea;Buenos Aires;Necochea
+634;Costa Bonita;BUE088;Necochea;Buenos Aires;Necochea
+885;Macia - Galpón principal (lado sur del predio);ERI035;Maciá;Entre Ríos;Tala
+884;Macia - En Escenario (Lado norte del predio);ERI035;Maciá;Entre Ríos;Tala
+142;Macia - En luminaria (centro-sur del predio);ERI035;Maciá;Entre Ríos;Tala
+143;Macia - En luminaria (Centro-norte del Predio);ERI035;Maciá;Entre Ríos;Tala
+934;Humahuaca Punto Digital;JUJ024;Humahuaca;Jujuy;Humahuaca
+933;Tres Cruces (Municipio);JUJ024;Humahuaca;Jujuy;Humahuaca
+387;Municipalidad;MZA018;Tupungato;Mendoza;Tupungato
+268;PD Calingasta;SJU003;Calingasta;San Juan;Calingasta
+655;Villa Nueva- Escuela Alvarez Condarco;SJU003;Calingasta;San Juan;Calingasta
+902;;NEU057;Ramón Castro;Neuquén;Zapala
+1282;;SFE275;San Bernardo (S.J.);Santa Fe;San Justo
+727;El Galpon - Municipalidad;SAL015;El Galpón;Salta;Metan
+795;;SJU014;Santa Lucía;San Juan;Santa Lucia
+796;;SJU014;Santa Lucía;San Juan;Santa Lucia
+794;Santa Lucia - Pza Sta Lucia;SJU014;Santa Lucía;San Juan;Santa Lucia
+1121;;CBA157;James Craik;Córdoba;Tercero Arriba
+605;salon de usos multiples;CBA290;Pozo del Molle;Córdoba;Rio Segundo
+1002;;COR027;Ituzaingó;Corrientes;Ituzaingo
+395;Nogoya - Pza Francisco Ramirez;ERI037;Nogoyá;Entre Ríos;Nogoya
+938;Punto Digital;ERI037;Nogoyá;Entre Ríos;Nogoya
+394;Paseo de Los Puentes;ERI037;Nogoyá;Entre Ríos;Nogoya
+1193;;ERI037;Nogoyá;Entre Ríos;Nogoya
+1289;;SFE325;Sunchales;Santa Fe;Castellanos
+1243;;FOR031;San Martín Dos;Formosa;Patiño
+1180;;RNO043;Arroyo de la Ventana;Río Negro;Valcheta
+1187;;TUC086;San Miguel de Tucumán;Tucumán;Capital
+1188;;TUC086;San Miguel de Tucumán;Tucumán;Capital
+219;Punto Digital;TUC086;San Miguel de Tucumán;Tucumán;Capital
+1197;;SFE336;Tostado;Santa Fe;Nueve de Julio
+1080;;CAT018;Paclín;Catamarca;Paclin
+1210;;CAT028;Santa María;Catamarca;Santa Maria
+1314;;SLU019;Fortuna;San Luis;Gobernador Dupuy
+1256;;SLU019;Fortuna;San Luis;Gobernador Dupuy
+819;;CBA207;Las Peñas;Córdoba;Totoral
+1221;;CBA318;Sampacho;Córdoba;Rio Cuarto
+582;;SFE101;Egusquiza;Santa Fe;Castellanos
+1168;;COR068;Colonia Pando;Corrientes;San Roque
+392;Villa Paranacito - Plaza de los Niños;ERI064;Villa Paranacito;Entre Ríos;Islas del Ibicuy
+640;Plaza San Martin;SGO068;San Pedro de Guasayán;Santiago del Estero;Guasayan
+1293;;NEU026;Octavio Pico;Neuquén;Pehuenches
+1086;;LRJ013;Independencia;La Rioja;Independencia
+1204;;SFE264;Rosario;Santa Fe;Rosario
+774;;RNO069;Río Chico;Río Negro;Ñorquinco
+398;;SGO069;Santiago del Estero;Santiago del Estero;Capital
+947;PD General Belgrano;BUE045;General Belgrano;Buenos Aires;General Belgrano
+1065;;BUE045;General Belgrano;Buenos Aires;General Belgrano
+534;Plaza Manuel Belgrano;BUE045;General Belgrano;Buenos Aires;General Belgrano
+606;Delegacion Municipal;CBA052;Villa Cañada del Sauce;Córdoba;Calamuchita
+1171;;SFE227;Nelson;Santa Fe;La Capital
+1169;;SFE227;Nelson;Santa Fe;La Capital
+1170;;SFE227;Nelson;Santa Fe;La Capital
+649;Punto Digital;BUE099;Puán;Buenos Aires;Puan
+650;;BUE099;Puán;Buenos Aires;Puan
+1313;;CBA233;Los Talares;Córdoba;Pocho
+611;;CBA233;Los Talares;Córdoba;Pocho
+1141;;CHU004;Buen Pasto;Chubut;Sarmiento
+659;salon de usos multiples;CHU004;Buen Pasto;Chubut;Sarmiento
+299;Plaza Tambor de Tacuari;COR011;Concepción;Corrientes;Concepcion
+923;Punto Digital;SAL047;Rosario de Lerma;Salta;Rosario de Lerma
+189;Plaza Jorge Torino de Viana;SAL047;Rosario de Lerma;Salta;Rosario de Lerma
+720;Municipalidad;JUJ042;Rodeíto;Jujuy;San Pedro
+936;Punto Digital;JUJ042;Rodeíto;Jujuy;San Pedro
+237;PD Trenque Lauquen;BUE126;Trenque Lauquen;Buenos Aires;Trenque Lauquen
+1307;;SAL044;Rivadavia Banda Norte;Salta;Rivadavia
+743;Rivadavia Banda Norte;SAL044;Rivadavia Banda Norte;Salta;Rivadavia
+740;Comuna;TUC041;Gastona y Belicha;Tucumán;Chicligasta
+592;Ruiz de Montoya - Municipalidad;MIS063;Ruiz de Montoya;Misiones;Libertador General San Martin
+483;Punto Digital;BUE007;Azul;Buenos Aires;Azul
+1159;;BUE007;Azul;Buenos Aires;Azul
+734;Plaza Municipio;SFE100;Diego de Alvear;Santa Fe;General Lopez
+900;Escuela N°7;BUE083;Monte;Buenos Aires;Monte
+901;Escuela N°2;BUE083;Monte;Buenos Aires;Monte
+899;Escuela N°12;BUE083;Monte;Buenos Aires;Monte
+550;;BUE072;Lobería;Buenos Aires;Loberia
+242;PD Loberia;BUE072;Lobería;Buenos Aires;Loberia
+549;;BUE072;Lobería;Buenos Aires;Loberia
+374;;CBA404;Villa General Belgrano;Córdoba;Calamuchita
+688;C.I.C;MZA016;Santa Rosa;Mendoza;Santa Rosa
+706;Santa Rosa-Las Catitas - Delegación Municipal;MZA016;Santa Rosa;Mendoza;Santa Rosa
+386;ESCUELA EL MARCADO   vsat Arsat;MZA016;Santa Rosa;Mendoza;Santa Rosa
+1263;;CHU022;Gastre;Chubut;Gastre
+665;Municipalidad;CHU022;Gastre;Chubut;Gastre
+1264;;CHU022;Gastre;Chubut;Gastre
+1260;;CHU022;Gastre;Chubut;Gastre
+780;;COR048;Riachuelo;Corrientes;Capital
+336;Municipalidad;COR048;Riachuelo;Corrientes;Capital
+633;Punto Digital;MIS057;Posadas;Misiones;Capital
+164;Posadas - Centro de integracion territorial(Barrio Miguel Lanus);MIS057;Posadas;Misiones;Capital
+163;Posadas - Paseo la terminal;MIS057;Posadas;Misiones;Capital
+162;Posadas - Costanera;MIS057;Posadas;Misiones;Capital
+161;Posadas - Barrio San Lucas;MIS057;Posadas;Misiones;Capital
+1207;;SFE011;Angélica;Santa Fe;Castellanos
+267;Plaza Municipio;SJU016;Ullum;San Juan;Ullum
+922;Punto Digital Ullum;SJU016;Ullum;San Juan;Ullum
+981;Corral de Isaac ( Escuela Rural);LRJ012;General San Martín;La Rioja;General San Martin
+798;;SCR016;Jaramillo;Santa Cruz;Deseado
+913;;SCR016;Jaramillo;Santa Cruz;Deseado
+775;;NEU015;Guañacos;Neuquén;Minas
+946;PD Huanguelen;BUE032;Coronel Suárez;Buenos Aires;Coronel Suarez
+1248;;SFE178;Laguna Paiva;Santa Fe;La Capital
+955;PD San Isidro;BUE115;San Isidro;Buenos Aires;San Isidro
+26;Estacion Boulogne;BUE115;San Isidro;Buenos Aires;San Isidro
+315;;MIS042;Guaraní;Misiones;Obera
+594;Municipalidad;CHA028;Isla del Cerrito;Chaco;Bermejo
+658;Gimnasio Municipal;CHU025;José de San Martín;Chubut;Tehuelches
+1013;Punto Digital;JUJ013;Coranzuli;Jujuy;Susques
+535;Central Telefonica 1;JUJ013;Coranzuli;Jujuy;Susques
+1012;Central Telefonica 2;JUJ013;Coranzuli;Jujuy;Susques
+742;comuna rural;TUC006;Alto Verde y los Gucheas;Tucumán;Chicligasta
+959;Punto Digital;CBA260;Monte Leña;Córdoba;Union
+1173;;SFE033;Bigand;Santa Fe;Caseros
+1174;;SFE033;Bigand;Santa Fe;Caseros
+1172;;SFE033;Bigand;Santa Fe;Caseros
+1033;Plaza Bicentenario;BUE068;Laprida;Buenos Aires;Laprida
+641;Plaza Pedro Pereyra;BUE068;Laprida;Buenos Aires;Laprida
+839;;BUE046;General Guido;Buenos Aires;General Guido
+753;PD General Guido;BUE046;General Guido;Buenos Aires;General Guido
+1237;;SAL005;Cachi;Salta;Cachi
+823;;SGO102;Colonia Tinco;Santiago del Estero;Rio Hondo
+1183;;CBA171;La Falda;Córdoba;Punilla
+1124;;CBA171;La Falda;Córdoba;Punilla
+1182;;CBA171;La Falda;Córdoba;Punilla
+456;;CBA397;Villa del Rosario;Córdoba;Rio Segundo
+228;Gualeguay - Costanera;ERI024;Gualeguay;Entre Ríos;Gualeguay
+1297;;SFE206;Malabrigo;Santa Fe;General Obligado
+199;Parque de la Juventud;SFE206;Malabrigo;Santa Fe;General Obligado
+555;;ERI058;Villa Clara;Entre Ríos;Villaguay
+718;Municipalidad;JUJ037;Puesto del Marqués;Jujuy;Cochinoca
+754;;BUE069;Las Flores;Buenos Aires;Las Flores
+1109;;BUE069;Las Flores;Buenos Aires;Las Flores
+1071;;RNO032;San Antonio Oeste;Río Negro;San Antonio
+349;;SFE295;San Justo;Santa Fe;San Justo
+639;San Miguel VSAT;COR055;San Miguel;Corrientes;San Miguel
+1075;;SAL031;La Candelaria;Salta;La Candelaria
+1139;;CAT003;Andalgalá;Catamarca;Andalgala
+880;Aconquija-HTAL;CAT003;Andalgalá;Catamarca;Andalgala
+788;;SLU003;Anchorena;San Luis;Gobernador Dupuy
+787;;SLU003;Anchorena;San Luis;Gobernador Dupuy
+943;Punto Digital;CBA158;Jesús María;Córdoba;Colon
+108;Jesus Maria - Predio festival de Doma y Folklore;CBA158;Jesús María;Córdoba;Colon
+107;Jesus Maria - Plaza Pio Leon;CBA158;Jesús María;Córdoba;Colon
+1122;;CBA307;Río Segundo;Córdoba;Rio Segundo
+324;;COR049;Saladas;Corrientes;Saladas
+405;;SGO013;Colonia Alpina;Santiago del Estero;Rivadavia
+675;Municipalidad;JUJ004;Aguas Calientes;Jujuy;El Carmen
+559;;LAP075;Veinticinco de Mayo;La Pampa;Puelen
+369;Colonia El Sauzal;LAP075;Veinticinco de Mayo;La Pampa;Puelen
+558;Colonia Chica;LAP075;Veinticinco de Mayo;La Pampa;Puelen
+346;;SFE180;Lanteri;Santa Fe;General Obligado
+1179;;RNO057;Mamuel Choique;Río Negro;Ñorquinco
+578;Plaza Municipio;SFE351;Villa Minetti;Santa Fe;Nueve de Julio
+944;PD Cerri;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+234;Punto Digital BB;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+23;Plaza Andres Morel (Cerri);BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+21;Manuel Molina y Pacifico;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+19;Plaza del Algarrobo;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+24;Plaza Adrian Morado;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+20;Skate Park;BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+18;Plaza Roberto Achaval (Ingeniero White);BUE008;Bahía Blanca;Buenos Aires;Bahia Blanca
+1277;;CBA071;Chucul;Córdoba;Rio Cuarto
+1239;;TUC007;Amaichá del Valle;Tucumán;Tafi del Valle
+1238;;TUC007;Amaichá del Valle;Tucumán;Tafi del Valle
+701;;SJU011;Rivadavia;San Juan;Rivadavia
+693;;CHU047;Doctor Atilio Viglione;Chubut;Tehuelches
+1026;;CBA380;Vicuña Mackenna;Córdoba;Rio Cuarto
+1092;;ERI020;General Galarza;Entre Ríos;Gualeguay
+389;Tunuyan - Delegacion Municipal;MZA017;Tunuyán;Mendoza;Tunuyan
+692;Delegacion Municipal, Colonia Las Rosas;MZA017;Tunuyán;Mendoza;Tunuyan
+915;Punto Digital Rio Hondo;SGO078;Termas de Río Hondo;Santiago del Estero;Rio Hondo
+205;Municipalidad;SGO078;Termas de Río Hondo;Santiago del Estero;Rio Hondo
+206;Direccion de Turismo;SGO078;Termas de Río Hondo;Santiago del Estero;Rio Hondo
+1253;;NEU032;Quili Malal;Neuquén;Picunches
+590;;MIS013;Candelaria;Misiones;Candelaria
+869;Plaza Municipio;TUC013;Bella Vista;Tucumán;Leales
+656;oficina de informacion turistica;CHU038;Río Pico;Chubut;Tehuelches
+345;;SFE040;Calchaquí;Santa Fe;Vera
+457;Plaza de la Estación;BUE056;General Viamonte;Buenos Aires;General Viamonte
+1067;;BUE056;General Viamonte;Buenos Aires;General Viamonte
+1106;;TUC097;Simoca;Tucumán;Simoca
+380;Municipalidad  - Media Agua;SJU015;Sarmiento;San Juan;Sarmiento
+561;;CBA301;Rincón;Córdoba;Rio Segundo
+695;Punto Digital;BUE102;Ramallo;Buenos Aires;Ramallo
+935;Punto Digital;JUJ047;San Salvador de Jujuy;Jujuy;Doctor Manuel Belgrano
+217;Punto Digital;JUJ047;San Salvador de Jujuy;Jujuy;Doctor Manuel Belgrano
+703;Comuna;CHU011;Cushamen;Chubut;Cushamen
+325;;COR025;Itá Ibaté;Corrientes;General Paz
+1305;;SAL057;Vaqueros;Salta;La Caldera
+803;;LAP034;Intendente Alvear;La Pampa;Chapaleufu
+804;;LAP034;Intendente Alvear;La Pampa;Chapaleufu
+643;Barrio Arturo illia;BUE001;Adolfo Alsina;Buenos Aires;Adolfo Alsina
+644;Plaza Levalle;BUE001;Adolfo Alsina;Buenos Aires;Adolfo Alsina
+1216;;SAL059;Tolar Grande;Salta;Los Andes
+1309;;SAL059;Tolar Grande;Salta;Los Andes
+1316;;TUC100;Tafí del Valle;Tucumán;Tafi del Valle
+1317;;TUC100;Tafí del Valle;Tucumán;Tafi del Valle
+208;Plaza Gdor Critto;TUC100;Tafí del Valle;Tucumán;Tafi del Valle
+708;Rama Caida;MZA015;San Rafael;Mendoza;San Rafael
+1059;;BUE042;General Alvarado;Buenos Aires;General Alvarado
+1061;;SFE116;Colonia Esther;Santa Fe;San Justo
+929;Punto Digital;MZA003;Guaymallén;Mendoza;Guaymallen
+153;Mdza - Guaymallen;MZA003;Guaymallén;Mendoza;Guaymallen
+613;;CBA419;Villa San Isidro;Córdoba;Santa Maria
+307;Municipalidad;CHA063;Santa Sylvina;Chaco;Fray Justo Santa Maria de Oro
+759;;RNO028;Ñorquincó;Río Negro;Ñorquinco
+760;Las Plumas;CHU029;Las Plumas;Chubut;Martires
+297;Municipalidad de Villa Olivari VSAT;COR064;Villa Olivari;Corrientes;Ituzaingo
+1275;;CBA317;Salsipuedes;Córdoba;Colon
+591;Centro Cultural  La Morocha ;MIS012;Campo Viera;Misiones;Obera
+1274;;SFE217;Miguel Torres;Santa Fe;General Lopez
+818;;CBA221;Los Cisnes;Córdoba;Juarez Celman
+941;Punto Digital(Parque educativo Zona Noroeste);CBA100;Córdoba;Córdoba;Capital
+942;Punto Digital(Parque educativo Zona Sur);CBA100;Córdoba;Córdoba;Capital
+104;Plaza de los Presidentes Argentinos Cordobeses  La Industria ;CBA100;Córdoba;Córdoba;Capital
+103;Plaza San Martin;CBA100;Córdoba;Córdoba;Capital
+1211;;MIS052;Montecarlo;Misiones;Montecarlo
+160;Punto Digital;MIS052;Montecarlo;Misiones;Montecarlo
+781;;CHA046;Miraflores;Chaco;General Güemes
+301;Municipalidad de Chavarria VSAT;COR006;Chavarría;Corrientes;San Roque
+1020;Punto Digital;SAL014;El Carril;Salta;Chicoana
+677;Punto Digital;JUJ023;Huacalera;Jujuy;Tilcara
+745;;SFE188;Las Rosas;Santa Fe;Belgrano
+821;;SGO108;El Colorado;Santiago del Estero;Juan Felipe Ibarra
+903;;NEU045;Villa el Chocón;Neuquén;Confluencia
+263;PD Rafaela;SFE255;Rafaela;Santa Fe;Castellanos
+782;;SJU006;Iglesia;San Juan;Iglesia
+244;PD Villarino;BUE133;Villarino;Buenos Aires;Villarino
+504;Villarino;BUE133;Villarino;Buenos Aires;Villarino
+603;Municipalidad;CBA140;General Deheza;Córdoba;Juarez Celman
+1185;;COR016;Esquina;Corrientes;Esquina
+396;;ERI036;María Grande;Entre Ríos;Parana
+961;Punto Digital;SFE271;San Agustín;Santa Fe;Las Colonias
+553;;FOR004;Comandante Fontana;Formosa;Patiño
+384;Punto Digital;SJU008;Nueve de Julio;San Juan;Nueve de Julio
+855;Las Chacritas(Escuela Procesa Sarmiento de Lenoir);SJU008;Nueve de Julio;San Juan;Nueve de Julio
+908;;RNO041;Aguada Guzmán;Río Negro;El Cuy
+1208;;SFE326;Susana;Santa Fe;Castellanos
+1233;;SAL038;Molinos;Salta;Molinos
+1076;;CAT016;Londres;Catamarca;Belen
+793;;SLU011;Carolina;San Luis;Coronel Pringles
+333;;CBA193;Laboulaye;Córdoba;Presidente Roque Saenz Peña
+1199;;SFE054;Carmen del Sauce;Santa Fe;Rosario
+589;;COR067;Carolina;Corrientes;Goya
+642;;COR067;Carolina;Corrientes;Goya
+271;PD Sauce de Luna;ERI051;Sauce de Luna;Entre Ríos;Federal
+402;Punto Digital;SGO057;Nueva Esperanza;Santiago del Estero;Pellegrini
+813;;NEU022;Los Miches;Neuquén;Minas
+1072;;CAT015;Las Juntas;Catamarca;Ambato
+1191;;RNO065;Prahuaniyeu;Río Negro;Nueve de Julio
+1085;;FOR001;Buena Vista;Formosa;Pilagas
+925;Punto Digital;RNO017;General Fernández Oro;Río Negro;General Roca
+227;Polideportivo;RNO017;General Fernández Oro;Río Negro;General Roca
+1017;Punto Digital;CBA106;Costa Sacate;Córdoba;Rio Segundo
+1218;;TUC015;Burruyacú;Tucumán;Burruyacu
+1064;;BUE016;Bragado;Buenos Aires;Bragado
+1098;;BUE016;Bragado;Buenos Aires;Bragado
+27;Pza Eva Peron;BUE016;Bragado;Buenos Aires;Bragado
+28;Pza San Martin;BUE016;Bragado;Buenos Aires;Bragado
+864;San Pedro - Anfiteatro Municipal;MIS068;San Pedro;Misiones;San Pedro
+657;Biblioteca;CHU002;Aldea Epulef;Chubut;Languiñeo
+1302;;SAL046;Rosario de la Frontera;Salta;Rosario de la Frontera
+1286;el moreno;JUJ040;Purmamarca;Jujuy;Tumbaya
+689;Plaza Luis Maria Campos;ERI021;General Campos;Entre Ríos;San Salvador
+1125;;BUE030;Coronel Dorrego;Buenos Aires;Coronel Dorrego
+1126;;BUE030;Coronel Dorrego;Buenos Aires;Coronel Dorrego
+1176;;SFE067;Chabás;Santa Fe;Caseros
+391;;CBA366;Ticino;Córdoba;General San Martin
+308;;CHA041;Las Palmas;Chaco;Bermejo
+420;Plaza Municipio VSAT;COR035;Mburucuyá;Corrientes;Mburucuya
+257;PD Puerto San Julian;SCR010;Puerto San Julián;Santa Cruz;Magallanes
+191;;SCR010;Puerto San Julián;Santa Cruz;Magallanes
+724;Anillaco - Plaza San Antonio de Padua;LRJ002;Castro Barros;La Rioja;Castro Barros
+1087;;TUC107;Villa Chicligasta;Tucumán;Simoca
+241;PD Gral Las Heras;BUE049;General las Heras;Buenos Aires;General las Heras
+40;Estación De Tren (Villars);BUE049;General las Heras;Buenos Aires;General las Heras
+39;Plaza Principal Las heras (Municipalidad);BUE049;General las Heras;Buenos Aires;General las Heras
+1053;;SFE160;Josefina;Santa Fe;Castellanos
+948;Punto Digital Junin;BUE063;Junín;Buenos Aires;Junin
+47;Laguna;BUE063;Junín;Buenos Aires;Junin
+48;Pza 25 de Mayo;BUE063;Junín;Buenos Aires;Junin
+492;;BUE114;San Fernando;Buenos Aires;San Fernando
+236;PD Tornquist;BUE125;Tornquist;Buenos Aires;Tornquist
+319;Oficina de Turismo;MIS032;Esperanza;Misiones;Iguazu
+926;Punto Digital;MIS032;Esperanza;Misiones;Iguazu
+332;;CHA018;El Sauzalito;Chaco;General Güemes
+253;PD Esquel;CHU018;Esquel;Chubut;Futaleufu
+335;Colonia 3 de Abril - Munic. de Vella Vista;COR071;Tres de Abril;Corrientes;Bella Vista
+364;Punto Digital;SLU057;Union;San Luis;Gobernador Dupuy
+485;Plaza Municipio;SFE015;Armstrong;Santa Fe;Belgrano
+1247;;BUE065;La Matanza;Buenos Aires;La Matanza
+697;Municipalidad;BUE044;General Arenales;Buenos Aires;General Arenales
+1278;;CBA231;Los Reartes;Córdoba;Calamuchita
+1284;;CBA066;Chañar Viejo;Córdoba;Rio Seco
+645;;TUC082;San Felipe y Santa Bárbara;Tucumán;Lules
+1001;Punto Digital;CHU009;Comodoro Rivadavia;Chubut;Escalante
+916;Punto Digital;SFE203;Luis Palacios;Santa Fe;San Lorenzo
+198;Plaza Ferrocarril;SFE203;Luis Palacios;Santa Fe;San Lorenzo
+700;Biblioteca Popular;ERI046;San José;Entre Ríos;Colon
+714;Mina Pirquitas - Municipalidad;JUJ030;Mina Pirquitas;Jujuy;Rinconada
+1014;Coyaguaima;JUJ030;Mina Pirquitas;Jujuy;Rinconada
+531;Cipoletti After wire4;RNO009;Cipolletti;Río Negro;General Roca
+924;Punto Digital Cipolleti;RNO009;Cipolletti;Río Negro;General Roca
+1258;;SFE288;San Javier;Santa Fe;San Javier
+230;Patinodromo;NEU031;Plottier;Neuquén;Confluencia
+1306;;SAL020;Embarcación;Salta;General Jose de San Martin
+507;Corsodromo;BUE130;Veinticinco de Mayo;Buenos Aires;Veinticinco de Mayo
+1123;;CBA296;Quilino;Córdoba;Ischilin
+599;;COR037;Mocoretá;Corrientes;Monte Caseros
+1202;;SFE360;Zavalla;Santa Fe;Rosario
+1084;;FOR033;Subteniente Perín;Formosa;Patiño
+258;PD Santa FE;SFE305;Santa Fe;Santa Fe;La Capital
+193;Santa FE - Jardin Botanico;SFE305;Santa Fe;Santa Fe;La Capital
+194;Santa Fe Capital - Jardín Barranquitas;SFE305;Santa Fe;Santa Fe;La Capital
+192;Santa Fe Capital Plaza Alberdi;SFE305;Santa Fe;Santa Fe;La Capital
+195;La Tablada;SFE305;Santa Fe;Santa Fe;La Capital
+1349;;RNO045;Cona Niyeu;Río Negro;Nueve de Julio
+348;;SFE337;Totoras;Santa Fe;Iriondo
+940;Punto Digital;CAT025;San Fernando;Catamarca;Belen
+1219;;CBA014;Altos de Chipion;Córdoba;San Justo
+1007;;SLU064;Zanjitas;San Luis;Juan Martín de Pueyrredón
+1062;Hospital provincial;CBA308;Río Tercero;Córdoba;Tercero Arriba
+115;Paseo del Riel;CBA308;Río Tercero;Córdoba;Tercero Arriba
+117;Pza San Martin;CBA308;Río Tercero;Córdoba;Tercero Arriba
+116;Terminal de Omnibus;CBA308;Río Tercero;Córdoba;Tercero Arriba
+691;;CBA357;Silvio Pellico;Córdoba;General San Martin
+1090;;SFE108;Emilia;Santa Fe;La Capital
+538;Complejo Deportivo Municipal;ERI004;Aranguren;Entre Ríos;Nogoya
+1252;;NEU027;Paso Aguerre;Neuquén;Picun Leufu
+723;Delegacion Municipal;LRJ015;Rosario Vera Peñaloza;La Rioja;Rosario Vera Peñaloza
+906;;RNO070;San Javier;Río Negro;Adolfo Alsina
+736;Selva;SGO071;Selva;Santiago del Estero;Rivadavia
+239;PD Marcos PAz;BUE080;Marcos Paz;Buenos Aires;Marcos Paz
+756;;BUE048;General la Madrid;Buenos Aires;General La Madrid
+737;Municipio de Pozo Borrado;SFE242;Pozo Borrado;Santa Fe;Nueve de Julio
+375;;CBA234;Los Zorros;Córdoba;Tercero Arriba
+661;centro de capacitacion;CHU006;Carrenleufú;Chubut;Languiñeo
+300;Municipalidad de Felipe Yofré VSAT;COR018;Felipe Yofre;Corrientes;Mercedes
+1254;;SAL052;Santa Victoria Este;Salta;Rivadavia
+1189;;TUC055;Las Talitas;Tucumán;Tafi Viejo
+614;Municipalidad;CBA405;Villa Giardino;Córdoba;Punilla
+327;Plaza Principal;COR056;San Roque;Corrientes;San Roque
+861;;LRJ016;San Blas de los Sauces;La Rioja;San Blas de los Sauces
+1039;Simoca;TUC112;Yerba Buena;Tucumán;Yerba Buena
+210;Edificio Municipal;TUC112;Yerba Buena;Tucumán;Yerba Buena
+209;Punto Digital;TUC112;Yerba Buena;Tucumán;Yerba Buena
+1285;;SFE182;Las Avispas;Santa Fe;San Cristobal
+317;;MIS047;Puerto Libertad;Misiones;Iguazu
+1130;;CHA039;Las Breñas;Chaco;Nueve de Julio
+897;Municipalidad;CHU032;Paso del Sapo;Chubut;Languiñeo
+921;;JUJ017;El Condor;Jujuy;Yavi
+569;SUM;SFE042;Campo Piaggio;Santa Fe;San Jeronimo
+322;Colonia Wanda - Polideportivo Municipal;MIS023;Colonia Wanda;Misiones;Iguazu
+508;;SGO105;Doña Luisa;Santiago del Estero;Guasayan
+352;;SFE245;Providencia;Santa Fe;Las Colonias
+1120;;ERI061;Villa Elisa;Entre Ríos;Colon
+356;Municipalidad;LAP007;Anguil;La Pampa;Capital
+1201;;SFE301;Sancti Spiritu;Santa Fe;General Lopez
+733;La Poma-Salta;SAL033;La Poma;Salta;La Poma
+1083;;CAT009;Fiambalá;Catamarca;Tinogasta
+1311;;SLU005;Bagual;San Luis;Gobernador Dupuy
+536;;CBA168;La Cruz;Córdoba;Calamuchita
+1162;;COR059;Santo Tomé;Corrientes;Santo Tome
+393;;ERI041;Puerto Ibicuy;Entre Ríos;Islas del Ibicuy
+404;;SGO035;Herrera;Santiago del Estero;Avellaneda
+1113;;JUJ010;Caspalá;Jujuy;Valle Grande
+664;Municipalidad;NEU017;Junín de los Andes;Neuquén;Huiliches
+862;;LRJ001;Arauco;La Rioja;Arauco
+716;Municipalidad;JUJ029;Maimará;Jujuy;Tilcara
+912;;RNO058;Mencué;Río Negro;El Cuy
+583;;SFE362;Colonia Dolores;Santa Fe;San Justo
+646;;TUC004;Alderetes;Tucumán;Cruz Alta
+1220;;CBA091;Colonia San Pedro;Córdoba;San Justo
+1255;;SAL022;General Güemes;Salta;General Güemes
+678;Vsat Punto Digital Palma Sola;JUJ032;Palma Sola;Jujuy;Santa Barbara
+347;;TUC030;El Mollar;Tucumán;Tafi del Valle
+1318;;JUJ051;Susques;Jujuy;Susques
+1000;Punto Digital;SFE049;Capitán Bermúdez;Santa Fe;San Lorenzo
+1299;;TUC109;Villa Quinteros;Tucumán;Monteros
+378;;CBA329;San Ignacio;Córdoba;Calamuchita
+1128;;BUE104;Rivadavia;Buenos Aires;Rivadavia
+310;;CHA001;Aviá Teraí;Chaco;Independencia
+728;El Quebrachal - Municipalidad;SAL018;El Quebrachal;Salta;Anta
+705;Municipalidad;CHU015;El Hoyo;Chubut;Cushamen
+330;;COR030;La Cruz;Corrientes;San Martin
+1265;;SCR006;Los Antiguos;Santa Cruz;Lago Buenos Aires
+772;;NEU005;Barrancas;Neuquén;Pehuenches
+770;;SFE126;Fray Luis Beltrán;Santa Fe;San Lorenzo
+243;PD Lobos;BUE073;Lobos;Buenos Aires;Lobos
+59;Museo;BUE073;Lobos;Buenos Aires;Lobos
+60;;BUE073;Lobos;Buenos Aires;Lobos
+61;;BUE073;Lobos;Buenos Aires;Lobos
+647;Colonia 3 de Abril, Municipalidad;COR002;Bella Vista;Corrientes;Bella Vista
+596;;CHA015;Coronel Du Graty;Chaco;Mayor Luis Jorge Fontana
+567;Camarones VSAT;CHU005;Camarones;Chubut;Florentino Ameghino
+1135;;CHU030;Los Altares;Chubut;Paso de Indios
+602;;COR065;Yapeyú;Corrientes;San Martin
+383;Plaza Municipio;SJU019;Zonda;San Juan;Zonda
+637;;MIS015;Caraguatay;Misiones;Montecarlo
+265;PD Cañadon Seco;SCR019;Cañadón Seco;Santa Cruz;Deseado
+762;Comisaria;BUE041;Florentino Ameghino;Buenos Aires;Florentino Ameghino
+1250;;SFE224;Montes de Oca;Santa Fe;Belgrano
+690;Municipalidad;BUE093;Pellegrini;Buenos Aires;Pellegrini
+554;;CHA054;Presidencia Roque Sáenz Peña;Chaco;Comandante Fernandez
+1195;;SFE202;Lucio V. López;Santa Fe;Iriondo
+707;;MZA001;General Alvear;Mendoza;General Alvear
+822;;SGO119;Lilo Viejo - Patay;Santiago del Estero;Moreno
+1292;;NEU053;Aguada San Roque;Neuquén;Añelo
+1200;;SFE257;Ramona;Santa Fe;Castellanos
+1073;;SAL010;Chicoana;Salta;Chicoana
+1231;;CBA155;Isla Verde;Córdoba;Marcos Juarez
+607;;CBA264;Morteros;Córdoba;San Justo
+1023;;COR020;Gobernador Agrónomo Valentín Virasoro;Corrientes;Santo Tome
+1249;;SFE284;San Genaro;Santa Fe;San Jeronimo
+1245;;FOR019;Laguna Yema;Formosa;Bermejo
+502;Punto Digital;LAP070;Toay;La Pampa;Toay
+218;Municipalidad;LAP070;Toay;La Pampa;Toay
+909;;RNO042;Arroyo los Berros;Río Negro;Valcheta
+778;;SFE335;Tortugas;Santa Fe;Belgrano
+729;Rio Piedra Municipalidad;SAL043;Río Piedras;Salta;Metan
+1074;;CAT017;Los Varela;Catamarca;Ambato
+1081;;CAT019;Pomán;Catamarca;Poman
+1281;;CBA206;Las Palmas;Córdoba;Pocho
+1198;;SFE073;Colonia Aldao;Santa Fe;Castellanos
+1068;;ERI054;Ubajay;Entre Ríos;Colon
+401;Punto Digital;SGO064;Quimilí;Santiago del Estero;Moreno
+814;;NEU023;Manzano Amargo;Neuquén;Minas
+980;Malanzan;LRJ009;General Juan Facundo Quiroga;La Rioja;General Juan Facundo Quiroga
+238;PD San Andres de Giles;BUE111;San Andrés de Giles;Buenos Aires;San Andres de Giles
+1157;;RNO068;Rincón Treneta;Río Negro;Nueve de Julio
+694;;SGO066;Real Sayana;Santiago del Estero;Avellaneda
+556;Punto Digital;CBA154;Inriville;Córdoba;Marcos Juarez
+671;;TUC036;El Timbó;Tucumán;Burruyacu
+320;Santa Ana - Municipalidad;MIS070;Santa Ana;Misiones;Candelaria
+597;Municipalidad;COR010;Colonia Santa Rosa;Corrientes;Concepcion
+1117;;JUJ041;Rinconada;Jujuy;Rinconada
+397;;ERI022;General Ramírez;Entre Ríos;Diamante
+739;Campamento;TUC037;Escaba;Tucumán;Juan Bautista Alberdi
+340;;MIS060;Puerto Leoni;Misiones;Libertador General San Martin
+1175;;SFE094;Correa;Santa Fe;Iriondo
+786;Punto Digital;MZA008;Luján de Cuyo;Mendoza;Lujan de Cuyo
+156;Plaza Principal;MZA008;Luján de Cuyo;Mendoza;Lujan de Cuyo
+776;;CBA398;Villa del Totoral;Córdoba;Totoral
+595;Municipalidad;CHA049;Pampa Almirón;Chaco;Libertador General San Martin
+1029;;SFE005;Alcorta;Santa Fe;Constitucion
+726;Municipalidad;LRJ011;General Ocampo;La Rioja;General Ortiz de Ocampo
+964;;SCR014;Veintiocho de Noviembre;Santa Cruz;Güer Aike
+905;;NEU012;El Cholar;Neuquén;Ñorquin
+1358;;BUE057;General Villegas;Buenos Aires;General Villegas
+245;PD Chascomus;BUE025;Chascomús;Buenos Aires;Chascomus
+1279;;SFE175;La Sarita;Santa Fe;General Obligado
+493;General Conesa Pza San Martin;BUE124;Tordillo;Buenos Aires;Tordillo
+1354;Punto Digital Vedia - Fundación;CHA026;General Vedia;Chaco;Bermejo
+704;Municipalidad;CHU024;Gualjaina;Chubut;Cushamen
+566;Tolhuin VSAT;TDF002;Tolhuin;Tierra del Fuego;Tolhuin
+957;Punto Digital;MIS053;Nueve de Julio;Misiones;Eldorado
+1229;;COR026;Itatí;Corrientes;Itati
+870;Plaza Mariano Moreno;BUE119;San Vicente;Buenos Aires;San Vicente
+17;Plaza Yrigoyen ( A.Korn);BUE119;San Vicente;Buenos Aires;San Vicente
+826;;SGO081;Vilelas;Santiago del Estero;Juan Felipe Ibarra
+293;;SCR011;Puerto Santa Cruz;Santa Cruz;Corpen Aike
+610;;CBA087;Colonia las Pichanas;Córdoba;San Justo
+1224;;CBA384;Villa Candelaria Norte;Córdoba;Rio Seco
+270;PD Puerto Piray;MIS061;Puerto Piray;Misiones;Montecarlo
+382;Caucete;SJU004;Caucete;San Juan;Caucete
+1287;;SFE290;San Jerónimo Norte;Santa Fe;Las Colonias
+266;PD Rawson;SJU010;Rawson;San Juan;Rawson
+1303;;SAL028;Isla de Cañas;Salta;Iruya
+1136;;CBA306;Río Primero;Córdoba;Rio Primero
+601;Perrugorria - Curuzu Cuatia Municipalidad;COR045;Perugorría;Corrientes;Curuzu Cuatia
+262;PD Bandera;SGO004;Bandera;Santiago del Estero;Belgrano
+715;Municipalidad;JUJ001;Abdón Castro Tolay;Jujuy;Cochinoca
+979;Punto Digital;LRJ014;La Rioja;La Rioja;Capital
+1213;;RNO053;El Caín;Río Negro;Veinticinco de Mayo
+1206;;SFE348;Villa Eloisa;Santa Fe;Iriondo
+1078;;CAT031;Tapso;Catamarca;El Alto
+608;Delegacion Municipal;CBA051;Cañada de Río Pinto;Córdoba;Ischilin
+679;salon de usos multiples;CHU046;Aldea Apeleg;Chubut;Rio Senguer
+528;;CBA364;Tancacha;Córdoba;Tercero Arriba
+264;PD Funes;SFE129;Funes;Santa Fe;Rosario
+825;;ERI160;Pueblo General Belgrano;Entre Ríos;Gualeguaychu
+226;Pueblo General Belgrano;ERI160;Pueblo General Belgrano;Entre Ríos;Gualeguaychu
+1212;;NEU028;Picún Leufú;Neuquén;Picun Leufu
+316;;MIS002;Almafuerte;Misiones;Leandro N. Alem
+1177;;RNO071;Sierra Pailemán;Río Negro;Valcheta
+91;;BUE117;San Nicolás de los Arroyos;Buenos Aires;San Nicolas
+158;Palmira;MZA014;San Martín;Mendoza;San Martin
+121;;CBA315;Saldán;Córdoba;Colon
+120;Plaza Malvinas Argentinas;CBA315;Saldán;Córdoba;Colon
+62;Av.3 Y 104;BUE132;Villa Gesell;Buenos Aires;Villa Gesell
+63;Av. ELucero y Mercedes Sosa;BUE132;Villa Gesell;Buenos Aires;Villa Gesell
+14;;BUE082;Merlo;Buenos Aires;Merlo
+13;Estacion de Tren;BUE082;Merlo;Buenos Aires;Merlo
+16;Plaza Nestor Kirchner;BUE082;Merlo;Buenos Aires;Merlo
+12;Plaza Agustin Ferrari;BUE082;Merlo;Buenos Aires;Merlo
+15;El Tejadito;BUE082;Merlo;Buenos Aires;Merlo
+178;Biblioteca Alfonsina Storni;NEU038;Senillosa;Neuquén;Confluencia
+181;Catedral Nuestra Señora Nahual Huapi;RNO033;San Carlos de Bariloche;Río Negro;Bariloche
+180;Centro Civico;RNO033;San Carlos de Bariloche;Río Negro;Bariloche
+182;Cerro Catedral;RNO033;San Carlos de Bariloche;Río Negro;Bariloche
+183;Punto Digital;RNO033;San Carlos de Bariloche;Río Negro;Bariloche
+212;;BUE009;Balcarce;Buenos Aires;Balcarce
+138;Punto Digital;ERI016;Diamante;Entre Ríos;Diamante
+136;Plaza 9 de Julio;ERI016;Diamante;Entre Ríos;Diamante
+137;Plaza Municipal;ERI016;Diamante;Entre Ríos;Diamante
+159;Punto Digital;MIS031;Eldorado;Misiones;Eldorado
+141;Camping Villa Hernandarias;ERI027;Hernandarias;Entre Ríos;Parana
+114;Plaza Centenario;CBA263;Morrison;Córdoba;Union
+113;Morrison - Plaza (Calle Libertad);CBA263;Morrison;Córdoba;Union
+184;Plaza Consejo Deliberante;RNO052;Dina Huapi;Río Negro;Bariloche
+216;Punto Digital;FOR002;Clorinda;Formosa;Pilcomayo
+109;;CBA185;La Posta;Córdoba;Rio Primero
+43;;BUE054;General Rodríguez;Buenos Aires;General Rodriguez
+42;Museo;BUE054;General Rodríguez;Buenos Aires;General Rodriguez
+44;;BUE054;General Rodríguez;Buenos Aires;General Rodriguez
+41;;BUE054;General Rodríguez;Buenos Aires;General Rodriguez
+123;Municipalidad Unquillo;CBA376;Unquillo;Córdoba;Colon
+124;Plaza Alem;CBA376;Unquillo;Córdoba;Colon
+96;Plaza Municipalidad;CHU037;Río Mayo;Chubut;Rio Senguer
+66;Centro Comercial;BUE085;Moreno;Buenos Aires;Moreno
+196;Plaza 9 de Julio;SFE020;Arroyo Seco;Santa Fe;Rosario
+98;Parque Publico Sierras;CBA011;Alta Gracia;Córdoba;Santa Maria
+97;Plaza Solares;CBA011;Alta Gracia;Córdoba;Santa Maria
+29;;BUE017;Campana;Buenos Aires;Campana
+112;Plaza Pcpal;CBA258;Monte Cristo;Córdoba;Rio Primero
+37;Pza. Calles Mitre y GraPaz;BUE002;Adolfo Gonzáles Chaves;Buenos Aires;Adolfo Gonzales Chaves
+73;Plaza 25 de Mayo;BUE094;Pergamino;Buenos Aires;Pergamino
+72;Parque Davila;BUE094;Pergamino;Buenos Aires;Pergamino
+74;Plaza Merced;BUE094;Pergamino;Buenos Aires;Pergamino
+75;Punto Digital;BUE094;Pergamino;Buenos Aires;Pergamino
+65;Punto Digital (Polideporitvo);BUE053;General Pueyrredón;Buenos Aires;General Pueyrredon
+64;Plaza Colon;BUE053;General Pueyrredón;Buenos Aires;General Pueyrredon
+111;Pza San Martin;CBA223;Los Cóndores;Córdoba;Calamuchita
+25;Plaza Alsina;BUE015;Bolívar;Buenos Aires;Bolivar
+81;Plaza Belisario Roldan;BUE098;Presidente Perón;Buenos Aires;Presidente Peron
+36;Plaza BMX;BUE035;Ensenada;Buenos Aires;Ensenada
+129;Pza Centenario;CBA411;Villa María;Córdoba;General San Martin
+46;Municipalidad;BUE050;General Lavalle;Buenos Aires;General Lavalle
+151;Palpala;JUJ033;Palpalá;Jujuy;Palpala
+148;plaza municipal;ERI040;Piedras Blancas;Entre Ríos;La Paz
+197;Plaza de Los Sueños;SFE105;El Trébol;Santa Fe;San Martin
+30;Pza. Gral. Paz;BUE024;Chacabuco;Buenos Aires;Chacabuco
+140;Plaza Habib Habad;ERI025;Gualeguaychú;Entre Ríos;Gualeguaychu
+139;;ERI048;San Salvador;Entre Ríos;San Salvador
+88;Plaza Rivadavia;BUE105;Rojas;Buenos Aires;Rojas
+90;Plaza España;BUE105;Rojas;Buenos Aires;Rojas
+89;PLaza San Martin;BUE105;Rojas;Buenos Aires;Rojas
+187;Plaza Municipio;SAL009;San José de los Cerrillos;Salta;Cerrillos
+152;Trenel - Pza Principal;LAP072;Trenel;La Pampa;Trenel
+8;Adrogue;BUE004;Almirante Brown;Buenos Aires;Almirante Brown
+9;Burzaco;BUE004;Almirante Brown;Buenos Aires;Almirante Brown
+100;Plaza Nicolas Avellaneda;CBA083;Colonia Caroya;Córdoba;Colon
+122;Plaza (calle 25 de Mayo y Alberdi);CBA359;Sinsacate;Córdoba;Totoral
+179;Plaza Pcpal;NEU046;Villa la Angostura;Neuquén;Los Lagos
+150;Plaza San Martin;FOR008;Formosa;Formosa;Formosa
+204;Los Telares;SGO050;Los Telares;Santiago del Estero;Salavina
+95;Plaza Independencia;BUE121;Tandil;Buenos Aires;Tandil
+203;Plaza Lugones;SGO082;Villa Atamisqui;Santiago del Estero;Atamisqui
+130;Municipalidad;COR057;Santa Ana;Corrientes;San Cosme
+106;Plaza San Martin;CBA148;Hernando;Córdoba;Tercero Arriba
+105;Polideportivo;CBA148;Hernando;Córdoba;Tercero Arriba
+185;Municipalidad;CBA042;Calchín;Córdoba;Rio Segundo
+186;Plaza San Martin;CBA042;Calchín;Córdoba;Rio Segundo
+99;Brinkmann - Plaza San Martin;CBA038;Brinkmann;Córdoba;San Justo
+67;Plaza San Martin;BUE086;Morón;Buenos Aires;Moron
+68;Punto Digital;BUE086;Morón;Buenos Aires;Moron
+135;Crespo - Plaza Sarmiento;ERI015;Crespo;Entre Ríos;Parana
+149;Club AtleticoySocial San Benito;ERI044;San Benito;Entre Ríos;Parana
+155;Las Heras - Estadio Polimeni;MZA006;Las Heras;Mendoza;Las Heras
+118;Pza del Centenario;CBA311;Sacanta;Córdoba;San Justo
+119;Pza San Martin;CBA311;Sacanta;Córdoba;San Justo
+188;El Bordo - Plaza Pcpal;SAL013;El Bordo;Salta;General Güemes
+154;;MZA004;Junín;Mendoza;Junin
+190;Salta - Municipalidad;SAL048;Salta;Salta;Capital
+94;Plaza Balcarce;BUE120;Suipacha;Buenos Aires;Suipacha
+211;Punto Digital;BUE091;Patagones;Buenos Aires;Patagones
+215;SUM Municipal;CBA012;Alto Alegre;Córdoba;Union
+71;OPENDOOR (Plaza);BUE075;Luján;Buenos Aires;Lujan
